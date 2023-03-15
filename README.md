@@ -1,4 +1,4 @@
 #TurtleRacer
 
 
-Turtle racing game made with turtle/random 
+Turtle racing simulation made with turtle/random 
